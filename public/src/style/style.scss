@@ -1,0 +1,16 @@
+@import "./reset";
+@import "./variable";
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background: magenta;
+}
